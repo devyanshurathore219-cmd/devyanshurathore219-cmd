@@ -9,10 +9,25 @@
 ## ðŸ’« About Me
 I am a passionate **Frontend Developer** and **Creative Web Creator** focused on building motion-driven, visually stunning, and highly responsive digital interfaces. I blend code with motion design to build websites that feel alive and deliver premium user experiences.
 
+- ðŸ“ Based in **Dwarka Mor, New Delhi, India**
 - ðŸ–¥ï¸ Crafting animations using **GSAP**, **ScrollTrigger**, and **Locomotive Scroll**.
 - ðŸ› ï¸ Building interactive layouts with **Tailwind CSS** and vanilla components.
 - âš¡ Developing full-stack tools using **Node.js**, **Express**, and **SQLite**.
 - ðŸŽ“ Exploring modern design aesthetics (glassmorphism, 3D grids, and horizontal-scrolling architecture).
+
+---
+
+## ðŸ“¬ Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/devyanshu-rathore-a578303b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/devyanshurathore219/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
@@ -69,11 +84,3 @@ Here is a curated selection of projects I've built:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyanshurathore219-cmd&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-## ðŸ“¬ Contact & Connections
-Let's connect and build something awesome together!
-
-- ðŸ’» GitHub Profile: [@devyanshurathore219-cmd](https://github.com/devyanshurathore219-cmd)
-- ðŸš€ Interested in collaboration? Feel free to open an issue or reach out through my portfolio websites.
